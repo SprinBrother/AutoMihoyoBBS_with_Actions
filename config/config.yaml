@@ -26,8 +26,14 @@ mihoyobbs:
   checkin: true
   checkin_multi: true
   checkin_multi_list:
+  - 1
   - 2
+  - 3
+  - 4
   - 5
+  - 6
+  - 7
+  - 8
   enable: true
   like_posts: true
   read_posts: true
